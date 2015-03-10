@@ -1,4 +1,4 @@
-class Account
+class Account 
 {
   private string name;
   private bool sex;/0-male 1-female
